@@ -1,0 +1,57 @@
+
+body {
+    font-family: sans-serif;
+}
+
+.header-container,
+.nav-container {
+    background-color: #12372A;
+}
+
+.header-container {
+    color: #fff;
+}
+
+.header-container h1 {
+    color: #ffc107;
+}
+
+
+.resume-container {
+    background-color: #436850;
+    color: #fff;
+}
+
+.resume-container h2 {
+    color: #ffc107;
+}
+
+.contact-container {
+    background-color: #ADBC9F;
+    color: #fff;
+}
+
+.contact-container h1 {
+    color: #ffc107;
+}
+
+.contact-container a {
+    color: #fff;
+}
+
+.contact-title {
+    color: #fff;
+}
+
+.name-title {
+    color: #fff;
+}
+
+.footer-container {
+    background-color: #fbfada;
+    color: #fff;
+}
+
+img {
+    border-radius: 50%;
+}
